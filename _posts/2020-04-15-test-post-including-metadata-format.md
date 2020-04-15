@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "test post including metadata format!"
-date:   2020-04-15 17:45:00 +0900
+date:   2000-04-15 17:45:00 +0900
 categories: jekyll update
 ---
 
