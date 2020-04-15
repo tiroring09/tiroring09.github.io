@@ -1,9 +1,9 @@
-```
+---
 layout: post
 title:  "test post including metadata format!"
 date:   2020-04-15 17:45:00 +0900
 categories: jekyll update
-```
+---
 
 깃허브 블로그 만들기 v.2
 
